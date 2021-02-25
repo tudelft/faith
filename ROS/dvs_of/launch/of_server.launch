@@ -1,0 +1,10 @@
+<launch>
+
+  <!-- visualization -->
+  <node name="dvs_of" pkg="dvs_of" type="dvs_of" output="screen" >
+     <remap from="events" to="/dvs/events"/>
+     <remap from="camera_info" to="/dvs/camera_info"/>
+     <remap from="imu" to="/dvs/imu"/>
+  </node>
+
+</launch>

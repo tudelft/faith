@@ -1,0 +1,7 @@
+<library path="lib/libdvs_of_nodelet">
+  <class name="dvs_of/DvsOfNodelet" type="dvs_of::DvsOfNodelet" base_class_type="nodelet::Nodelet">
+    <description> 
+      A nodelet wrapper for the dvs_of.
+    </description>
+  </class>
+</library>

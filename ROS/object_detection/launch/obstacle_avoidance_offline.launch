@@ -1,0 +1,14 @@
+<launch>
+
+  <!-- visualization -->
+  <node name="dvs_of" pkg="dvs_of" type="dvs_of">
+     <remap from="events" to="/dvs/events"/>
+     <remap from="camera_info" to="/dvs/camera_info"/>
+     <remap from="imu" to="/dvs/imu"/>
+  </node>
+
+  <node name="foe_estimator" pkg="foe_estimator" type="foe_estimator" output="screen" />
+
+  <node name="object_detection" pkg="object_detection" type="object_detection" output="screen" />
+
+</launch>
