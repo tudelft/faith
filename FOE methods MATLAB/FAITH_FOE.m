@@ -1,4 +1,10 @@
 %% ======================== FAITH FOE estimation =======================
+
+% Author: Raoul Dinaux
+
+% Corresponding paper: 
+%       [TODO]
+
 % Input: (x,y) giving the location of the flow vectors (u,v)
 % Output: (x_foe,y_foe) location of FOE estimation
 
