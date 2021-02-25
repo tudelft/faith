@@ -1,5 +1,5 @@
 /**
- * 
+ * This file is part of the object_detection package - MAVLab TU Delft
  * 
  *   MIT License
  *

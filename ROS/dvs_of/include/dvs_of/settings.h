@@ -1,5 +1,5 @@
 /**
- * This file is part of the odroid_ros_dvs package - MAVLab TU Delft
+ * This file is part of the dvs_of package - MAVLab TU Delft
  * 
  *   MIT License
  *

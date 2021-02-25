@@ -1,5 +1,5 @@
 /**
- * 
+ * This file is part of the foe_estimator package - MAVLab TU Delft
  * 
  *   MIT License
  *
