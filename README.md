@@ -2,7 +2,7 @@
 
 This repository contains the FAITH algorithm implementation on ROS. 
 
-Supporting paper: 
+Supporting paper: https://arxiv.org/abs/2102.12823
 
 ## Matlab implementation
 
